@@ -10,4 +10,4 @@ Project Structures
 - PHP uses a layered architecture
 - Normalized relational database
 
-APK will be shared privately.
+APK will be shared privately and needs to be installed on an actual device.
