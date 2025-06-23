@@ -1,0 +1,14 @@
+targets:
+  $default:
+    builders:
+      stacked_generator|stackedRouterGenerator:
+        options:
+          navigator2: true
+      json_serializable:
+        options:
+          field_rename: snake
+      slang_build_runner:
+        options:
+          base_locale: en
+          maps:
+            - locales

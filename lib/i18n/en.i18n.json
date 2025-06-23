@@ -1,0 +1,36 @@
+{
+  "locale": "English",
+  "appName": "Dia Flowers",
+  "hello": "Hello $name",
+  "general": {
+    "description": "Description",
+    "location": "Location",
+    "category": "Category",
+    "price": "Price",
+    "disclaimer": "Disclaimer"
+  },
+  "product_details": {
+    "deliveryInfo": {
+      "title": "Delivery Info",
+      "desc": "Our flower delivery service is available in Dubai, Abu Dhabi, Sharjah, Ajman, Ras Al Khaimah, Umm Al Quwain and Fujairah. When you order flowers online, we will ensure that you receive your flowers within the delivery time slot you've selected."
+    },
+    "disclaimer": {
+      "title": "Disclaimer",
+      "desc": "The images shown are for illustration purposes only. Actual product may vary due to product enhancement or availability of materials. Colors may appear slightly different due to photographic lighting or your screen settings. We reserve the right to make minor adjustments to designs to ensure the best quality product."
+    },
+    "our_flowers": {
+      "title": "Our flowers",
+      "desc": "Our flowers are carefully selected and sourced from the finest growers. We offer a wide variety of fresh-cut flowers, preserved roses, and artificial arrangements to suit every occasion. Our team of expert florists ensures that each bouquet is crafted with care and attention to detail, guaranteeing the highest quality and freshness."
+    },
+    "you_may_also_like": {
+      "title": "You may also like"
+    }
+  },
+  "buttons": {
+    "addToCart": "Add to cart"
+  },
+  "locales(map)": {
+    "en": "English",
+    "ar": "Arabic"
+  }
+}
